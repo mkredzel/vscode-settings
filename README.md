@@ -36,7 +36,7 @@
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
   * Collaborative editing, debugging, and more inside VS Code
 
-# Settings
+## Settings
 
 ```json
 {
