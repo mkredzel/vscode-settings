@@ -3,7 +3,7 @@
 ## Font
 
 * Current font:
-  * Cascadia Code
+  * [Cascadia Code](https://github.com/microsoft/cascadia-code)
 * Previous font:
   * Consolas
 
