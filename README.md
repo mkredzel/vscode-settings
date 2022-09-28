@@ -42,7 +42,7 @@
 {
     "workbench.colorTheme": "Theme",
     "tabnine.experimentalAutoImports": true,
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "liveServer.settings.donotShowInfoMsg": true,
     "workbench.iconTheme": "material-icon-theme",
     "editor.lineHeight": 20,
@@ -78,5 +78,6 @@
     "[jsonc]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "terminal.integrated.windowsEnableConpty": false,
 }
 ```
